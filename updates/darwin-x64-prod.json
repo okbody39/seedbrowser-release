@@ -1,0 +1,7 @@
+{
+  "darwin-x64-prod": {
+    "update": "https://github.com/okbody39/seedbrowser-release/releases/download/darwin-x64-prod-2.0.1/release.json",
+    "install": "https://github.com/okbody39/seedbrowser-release/releases/download/darwin-x64-prod-2.0.1/seedbrowser-2.0.1.dmg",
+    "version": "2.0.1"
+  }
+}
